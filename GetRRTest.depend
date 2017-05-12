@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494588571 source:c:\users\wyse\documents\pr1\getrrtest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
