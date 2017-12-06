@@ -7,7 +7,7 @@ Note: the command line window is only used for demonstration / debugging purpose
 
 ![alt tag](https://a.doko.moe/wruuly.PNG)
 ## Description
-This is a simple program written in C and compiled using Code::Blocks 16.01 and GCC. It will read your monitor's refresh rate and write it to refreshRate.txt in the exe's directory. If you have multiple monitors it will will read the main moitor's refresh rate. I personally use paired with a Rainmeter skin which warns me when I start a game (Overwatch in my case) with a low refresh rate .
+This is a simple program written in C and compiled using Code::Blocks 16.01 and GCC. It will read your monitor's refresh rate and write it to refreshRate.txt in the exe's directory. If you have multiple monitors it will will read the main moitor's refresh rate. I personally use paired with a Rainmeter skin which warns me when I start a game (Overwatch in my case) with a low refresh rate.
 ## Downloads
 Quiet: http://www.joeware.net/freetools/tools/quiet/index.htm
 
