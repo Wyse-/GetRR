@@ -1,6 +1,6 @@
 # GetRR
 
-## Screenshot
+## Screenshots
 ![alt tag](https://a.doko.moe/gtpznd.PNG)
 
 Note: the command line window is only used for demonstration / debugging purposes, you should download Quiet below if you want to hide it.
